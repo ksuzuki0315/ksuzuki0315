@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksuzuki0315
 - 👀 I’m interested in ...Python,html,JavaScript,etc
-- 🌱 I’m currently learning ...Pyxel,Three.js,etc
+- 🌱 I’m currently learning ...Java,etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...For inquiries or discussions, please use the comment sections of my repositories. 
 - 😄 Pronouns: ...
